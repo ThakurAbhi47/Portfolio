@@ -43,7 +43,7 @@ const Hero = () => {
               variants={container(1.5)}
               initial="hidden"
               animate="visible"
-              className="mt-6 inline-flex items-center gap-2 rounded-2xl bg-gradient-to-r from-purple-500 to-pink-500 px-6 py-3 text-lg font-semibold text-white shadow-lg transition-transform hover:scale-105"
+              className="mt-6 mb-7 inline-flex items-center gap-2 rounded-2xl bg-gradient-to-r from-purple-500 to-pink-500 px-6 py-3 text-lg font-semibold text-white shadow-lg transition-transform hover:scale-105"
             >
               <FaDownload className="text-xl" />
               Download CV
